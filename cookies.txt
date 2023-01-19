@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.lehibakery.com	TRUE	/	FALSE	1999999999	crumb	Bep3f7HaJM14Mzg4MDgyMTMzNGZmZjhlOGM2ODYwNjczOWRiOWVk
+
